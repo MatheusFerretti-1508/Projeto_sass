@@ -21,6 +21,9 @@ header {
   text-align: center;
   color: #fff;
 }
+header h1 {
+  font-size: 52px;
+}
 
 .form-container {
   height: calc(100vh - 70px);
